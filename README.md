@@ -44,3 +44,5 @@ Defina os canais de publicação (ex: Teams, site, aplicativo)
 Use linguagem natural nas frases de gatilho.
 Teste com usuários reais para ajustar o tom e a usabilidade.
 Integre com Power Automate para fluxos mais complexos.
+Observar os custos associados uma vez que é um serviço cobrado. Pode ser cobrado US$ 0,01 por mensagem ou outros valores até limite pré-definidos.
+Interessante consultar a Microsoft para evitar surpresas no orçamento.
